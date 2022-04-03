@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6af045ed-66e7-45cf-8a0b-6a8d95596c7c": {
+      "ProjectGuid": "6af045ed-66e7-45cf-8a0b-6a8d95596c7c",
+      "DisplayName": "CloudConsole",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
