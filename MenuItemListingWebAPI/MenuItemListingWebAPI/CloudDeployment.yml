@@ -1,0 +1,34 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: menuitemlistingwebapi
+  labels:
+    app: menuitemlistingwebapi
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: menuitemlistingwebapi
+  template:
+    metadata:
+      labels:
+        app: menuitemlistingwebapi
+    spec:
+      containers:
+      - name: menuitemlistingwebapi
+        image: tharunacr.azurecr.io/menuitemlistingwebapiimage:latest
+        ports:
+        - containerPort: 80
+      imagePullSecrets:
+      - name: webapisvcsecret
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: menuitemlistingwebapi-service
+spec:
+ type: LoadBalancer
+ ports:
+ - port: 80
+ selector:
+   app: menuitemlistingwebapi

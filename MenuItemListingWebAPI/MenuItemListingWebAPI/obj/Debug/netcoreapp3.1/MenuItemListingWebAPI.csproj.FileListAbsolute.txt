@@ -1,0 +1,43 @@
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\MenuItemListingWebAPI.exe
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\MenuItemListingWebAPI.deps.json
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\MenuItemListingWebAPI.runtimeconfig.json
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\MenuItemListingWebAPI.runtimeconfig.dev.json
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\MenuItemListingWebAPI.dll
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\MenuItemListingWebAPI.pdb
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.csproj.AssemblyReference.cache
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.AssemblyInfoInputs.cache
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.AssemblyInfo.cs
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\MenuItemListingWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\MenuItemListingWebAPI.StaticWebAssets.xml
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\MenuItemListingWebAPI.styles.css
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.dll
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.pdb
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.genruntimeconfig.cache
+C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\CloudDeployment.yml
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\MenuItemListingWebAPI.StaticWebAssets.xml
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\MenuItemListingWebAPI.exe
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\CloudDeployment.yml
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\MenuItemListingWebAPI.deps.json
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\MenuItemListingWebAPI.runtimeconfig.json
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\MenuItemListingWebAPI.runtimeconfig.dev.json
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\MenuItemListingWebAPI.dll
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\MenuItemListingWebAPI.pdb
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.csproj.AssemblyReference.cache
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.AssemblyInfoInputs.cache
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.AssemblyInfo.cs
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\MenuItemListingWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.dll
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.pdb
+C:\Users\arunr\OneDrive\Desktop\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.genruntimeconfig.cache
