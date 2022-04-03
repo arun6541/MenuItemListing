@@ -1,0 +1,34 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: orderitemwebapi
+  labels:
+    app: orderitemwebapi
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: orderitemwebapi
+  template:
+    metadata:
+      labels:
+        app: orderitemwebapi
+    spec:
+      containers:
+      - name: orderitemwebapi
+        image: tharunacr.azurecr.io/orderitemwebapiimage:latest
+        ports:
+        - containerPort: 80
+      imagePullSecrets:
+      - name: webapisvcsecret
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: orderitemwebapi-service
+spec:
+ type: LoadBalancer
+ ports:
+ - port: 80
+ selector:
+   app: orderitemwebapi

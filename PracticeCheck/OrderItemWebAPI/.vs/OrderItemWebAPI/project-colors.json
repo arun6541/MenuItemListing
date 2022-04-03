@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e4bb882c-58c2-470a-b827-d3dcfbf94898": {
+      "ProjectGuid": "e4bb882c-58c2-470a-b827-d3dcfbf94898",
+      "DisplayName": "OrderItemWebAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
