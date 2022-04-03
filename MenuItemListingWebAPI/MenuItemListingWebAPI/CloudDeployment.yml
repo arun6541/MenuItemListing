@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: menuitemlistingwebapi
-        image: tharunacr.azurecr.io/menuitemlistingwebapiimage:latest
+        image: arun1acr.azurecr.io/menuitemlistingwebapiimage:latest
         ports:
         - containerPort: 80
       imagePullSecrets:
